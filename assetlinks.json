@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ledgerlife",
+        "sha256_cert_fingerprints": ["4B:E5:7B:95:59:77:EB:64:90:21:84:27:8F:AA:0E:D9:0F:E3:F8:3B:2F:79:93:E9:B7:39:80:4E:D5:4F:12:DA"]
+      }
+    }]
